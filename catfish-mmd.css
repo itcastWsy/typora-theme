@@ -349,3 +349,6 @@ table tr th:last-child,
 table tr td:last-child {
   margin-bottom: 0;
 }
+.CodeMirror-selected, .CodeMirror-selectedtext{
+	background-color:#0094ff!important;
+}
