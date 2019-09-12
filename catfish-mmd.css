@@ -142,9 +142,11 @@ code,
 tt {
   margin: 0 0.3em;
   padding: 0 0.3em;
-  background: #eee;
-  font-family: mononoki, monospace;
+  background-color: #f3f4f4;
+  font-family: Consolas,Liberation Mono,Menlo,Courier,monospace;
   text-shadow: 0 1px #fff;
+  color: #1bb56f;
+  font-weight: 600;
 }
 .md-fences {
   margin: 15px auto;
@@ -349,6 +351,8 @@ table tr th:last-child,
 table tr td:last-child {
   margin-bottom: 0;
 }
+
+
 .CodeMirror-selected, .CodeMirror-selectedtext{
 	background-color:#0094ff!important;
 }
