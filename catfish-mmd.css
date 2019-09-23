@@ -479,3 +479,7 @@ table tr td:last-child {
 .CodeMirror-selectedtext {
   background-color: #0094ff !important;
 }
+thead{
+  background-color: #0094ff;
+  color: #fff;
+}
